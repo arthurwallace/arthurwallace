@@ -1,4 +1,7 @@
 ## Oiii! Eu sou o Arthur Wallace
+<a href="https://github.com/ArthurWallace">
+    <p align="left"><img src="https://komarev.com/ghpvc/?username=ArthurWallacea&style=flat-square&color=blueviolet" alt="Profile view counter"/></p>
+</a>
 <div align="center">
   <a href="https://github.com/arthurwallace">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=arthurwallace&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
